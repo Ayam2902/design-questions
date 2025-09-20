@@ -6,7 +6,7 @@ TicTacToe is a 2 player game played on a 3 x 3 board. Each player is allotted a 
 
 You can play the game within Google Search by just searching for “tictactoe”!
 
-![TicTacToe](https://www.tuitec.com/wp-content/uploads/2016/08/morpion-640x411.jpg)
+asd
 
 
 ## Expectations
